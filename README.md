@@ -9,7 +9,7 @@ It is built with React, Bootstrap, and Firebase.
 To download the repository and install dependencies, run the following commands:
 
 ```bash
-git clone git://github.com/unnotedme/roots.git # replace [unnotedme] with your github username if you fork first.
+git clone git://github.com/unnotedme/auth.git # replace [unnotedme] with your github username if you fork first.
 cd roots
 npm install
 ```
